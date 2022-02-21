@@ -26,11 +26,11 @@ $: git Merge master ( atualização das modificações nas branch )
 
 $: git rebase   ( Reescreve a estrutura da árvore, movendo o galho para frente )
 
-$:git branch -M master
+$:git branch -M main
 
 $:git remote add origin [https://github.com/Raposa-Dev/bug-free-octo-pancake.git](https://github.com/Raposa-Dev/bug-free-octo-pancake.git)
 
-$:git push -u origin master
+$:git push -u origin main
 
 ---
 
@@ -38,8 +38,6 @@ Configurações rápida
 Se você já fez isso antes...
 
 ---
-
-[https://github.com/Raposa-Dev/bug-free-octo-pancake.git](https://github.com/Raposa-Dev/bug-free-octo-pancake.git)
 
 Comece criando um novo arquivo ou carregando um arquivo existente. Recomendamos que cada repositório inclua um README, LICENSE e .gitignore.
 
